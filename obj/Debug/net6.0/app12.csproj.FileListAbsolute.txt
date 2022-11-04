@@ -1,0 +1,15 @@
+C:\Users\Macias\Desktop\projects\app12\bin\Debug\net6.0\app12.exe
+C:\Users\Macias\Desktop\projects\app12\bin\Debug\net6.0\app12.deps.json
+C:\Users\Macias\Desktop\projects\app12\bin\Debug\net6.0\app12.runtimeconfig.json
+C:\Users\Macias\Desktop\projects\app12\bin\Debug\net6.0\app12.dll
+C:\Users\Macias\Desktop\projects\app12\bin\Debug\net6.0\app12.pdb
+C:\Users\Macias\Desktop\projects\app12\obj\Debug\net6.0\app12.csproj.AssemblyReference.cache
+C:\Users\Macias\Desktop\projects\app12\obj\Debug\net6.0\app12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Macias\Desktop\projects\app12\obj\Debug\net6.0\app12.AssemblyInfoInputs.cache
+C:\Users\Macias\Desktop\projects\app12\obj\Debug\net6.0\app12.AssemblyInfo.cs
+C:\Users\Macias\Desktop\projects\app12\obj\Debug\net6.0\app12.csproj.CoreCompileInputs.cache
+C:\Users\Macias\Desktop\projects\app12\obj\Debug\net6.0\app12.dll
+C:\Users\Macias\Desktop\projects\app12\obj\Debug\net6.0\refint\app12.dll
+C:\Users\Macias\Desktop\projects\app12\obj\Debug\net6.0\app12.pdb
+C:\Users\Macias\Desktop\projects\app12\obj\Debug\net6.0\app12.genruntimeconfig.cache
+C:\Users\Macias\Desktop\projects\app12\obj\Debug\net6.0\ref\app12.dll
